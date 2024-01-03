@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\İnterface\obj\Debug\net7.0\İnterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\İnterface\obj\Debug\net7.0\İnterface.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\İnterface\obj\Debug\net7.0\İnterface.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\İnterface\obj\Debug\net7.0\İnterface.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\İnterface\bin\Debug\net7.0\İnterface.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\İnterface\bin\Debug\net7.0\İnterface.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\İnterface\bin\Debug\net7.0\İnterface.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\İnterface\bin\Debug\net7.0\İnterface.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\İnterface\bin\Debug\net7.0\İnterface.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\İnterface\obj\Debug\net7.0\İnterface.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\İnterface\obj\Debug\net7.0\refint\İnterface.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\İnterface\obj\Debug\net7.0\İnterface.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\İnterface\obj\Debug\net7.0\İnterface.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\İnterface\obj\Debug\net7.0\ref\İnterface.dll
