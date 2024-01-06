@@ -13,7 +13,7 @@ class Program
         SmsLogger smsLogger = new();
         smsLogger.WriteLog();
 
-        Logmanager logmanager = new Logmanager(new FileLogger());
+        LogManager logmanager = new LogManager(new FileLogger());
         logmanager.WriteLog();
         
     }

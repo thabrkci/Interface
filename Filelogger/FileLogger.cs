@@ -1,5 +1,5 @@
+// FileLogger class implements ILogger interface and writes logs to a file.
 using System;
-
 
 namespace İnterface 
 {
@@ -7,11 +7,7 @@ namespace İnterface
     {
         public void WriteLog()
         {
-            //throw new NotImplementedException();
-            Console.WriteLine("Dosyaya Log yazar.");
+            Console.WriteLine("Writes log to the file.");
         }
     }
-
-
-
 }
